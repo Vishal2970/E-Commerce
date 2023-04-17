@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Commerce/static/css/main.c32e4d11.css",
+    "main.js": "/Commerce/static/js/main.cc60baf7.js",
+    "static/js/787.22edae46.chunk.js": "/Commerce/static/js/787.22edae46.chunk.js",
+    "static/media/travel-image3.jpg": "/Commerce/static/media/travel-image3.3e04c7d885982ab44816.jpg",
+    "index.html": "/Commerce/index.html",
+    "main.c32e4d11.css.map": "/Commerce/static/css/main.c32e4d11.css.map",
+    "main.cc60baf7.js.map": "/Commerce/static/js/main.cc60baf7.js.map",
+    "787.22edae46.chunk.js.map": "/Commerce/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32e4d11.css",
+    "static/js/main.cc60baf7.js"
+  ]
+}
